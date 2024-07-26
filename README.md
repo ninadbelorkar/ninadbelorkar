@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, I am Ninad 👋
+
+I'm currently working as an App Dev coordinator @Microsoft Learn Student Club, Vishwakarma Institute of Technology, Pune
+I'm currently pursuing my engineering degree at Vishwakarma Institute of Technology. (CSAI 2023-27)
+Ask me about: Python, C++, C, R, Android.
+Currently working on Flutter and DSA.
+
 
 <!--
 **ninadbelorkar/ninadbelorkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
