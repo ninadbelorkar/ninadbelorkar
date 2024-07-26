@@ -1,6 +1,6 @@
 ## Hello, I am Ninad 👋
 
-- I'm currently working as an App Dev coordinator at MLSC VIT Pune.
+- I'm currently working as an App Dev coordinator @mlscvitpune
 - I'm currently pursuing my engineering degree at Vishwakarma Institute of Technology. (CSAI 2023-27)
 - Ask me about: Python, C++, C, R, Android.
 - Currently working on Flutter and DSA.
