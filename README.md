@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ninad.belorkar23@vit.edu**
 
-- ⚡ Fun fact **People know me for my non-existing business.**
+- ⚡ Fun fact **Once then, business was my one and only priority!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
